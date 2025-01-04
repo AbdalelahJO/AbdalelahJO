@@ -1,4 +1,4 @@
-# Hey, I’m Arix! 👋
+# Hey, I’m Abdalelah! 👋
 
 I’m a **UX designer** and **front-end developer** with a passion for creating intuitive, user-centered designs and clean, responsive code. I specialize in HTML, CSS, and JavaScript, building sleek, responsive, and dynamic web applications. When I’m not crafting seamless interfaces or optimizing performance, you’ll probably find me gaming, watching a film, or chasing the next big idea. Let’s build something awesome! 🚀
 ---
